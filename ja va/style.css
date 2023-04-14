@@ -1,0 +1,15 @@
+.comment {
+    margin-bottom: 20px;
+}
+
+.name {
+    margin: 0;
+}
+
+.email {
+    font-style: italic;
+}
+
+.text {
+    margin: 0;
+}
